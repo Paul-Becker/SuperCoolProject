@@ -1,5 +1,1 @@
-# SuperCoolProject
-
-Guys im having second thoughts, this might not be as cool as I thought.
-
-Paul Becker
+Paul Becker's README
